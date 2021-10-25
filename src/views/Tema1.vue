@@ -553,7 +553,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              h3.text-white.mb-1 Tasas de interés tajeta de crédito              
+              h3.text-white.mb-1 Tasas de interés tarjetas de crédito              
               p.text-white.mb-0 A continuación, se presenta ejemplo de aplicación de tasas de interés para tarjetas de crédito del banco BBVA en Colombia.
             .col-sm-auto
               a.boton.color-acento-botones(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
