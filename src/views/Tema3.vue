@@ -71,7 +71,20 @@
 
     h3 Informes de gestión de campañas
 
-    p Avanzando en el tema de informes de gestión, lo primero que se debe establecer, es que no es lo mismo generar un reporte que hacer un informe. Como se vio, el reporte es la posibilidad que se tiene de obtener resultados de la gestión de manera inmediata para acciones inmediatas, mientras que los informes son documentos generados por las personas delegadas para ello, que contienen los resultados de la gestión, con un enfoque mucho más gerencial.     
+    p.mb-5 Avanzando en el tema de informes de gestión, lo primero que se debe establecer, es que no es lo mismo generar un reporte que hacer un informe. Como se vio, el reporte es la posibilidad que se tiene de obtener resultados de la gestión de manera inmediata para acciones inmediatas, mientras que los informes son documentos generados por las personas delegadas para ello, que contienen los resultados de la gestión, con un enfoque mucho más gerencial.  
+
+    .row.justify-content-center
+      .col-lg-10
+        .bloque-texto-g.crl_gray.p-3.p-sm-4.p-md-5.mb-5
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/tema_3/img_3_04.png')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.mb-0 Es decir, el informe contiene un análisis, unas causas del resultado, en algunos casos puede contener secuencialidad y trazabilidad de los indicadores, análisis comparativo respecto a otros periodos de tiempo y siempre van dirigidos a jerarquías más altas dentro de la operación, como por ejemplo a los gerentes de operaciones o directores. 
+
+    p.mb-0 En la mayoría de los casos estos informes de gestión tienen la finalidad de mostrar el comportamiento de la operación y de los gestores de cobro a la luz del resultado de todos los indicadores de gestión y son la principal herramienta dentro de la campaña para la toma de decisiones
+
+
 
     
     

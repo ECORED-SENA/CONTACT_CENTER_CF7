@@ -582,25 +582,25 @@
         .banner_A.mb-5     
           .banner_A__img.Img_BG_06
           .banner_A__body.text-white.mb-5.mb-lg-0
-            p.mb-0 Debido a la evolución y crecimiento de los#[i  Contact Center] en los últimos años y al flujo de información que estos manejan, se ha hecho necesario que cada una de estas empresas adopten al interior de su organización procesos que garanticen la preservación y seguridad de la información de sus clientes, para lo cual las empresas de#[i  Contact Center] han implementado lo que se conoce como SGSI (Sistema de Gestión de la Seguridad de la Información), que contempla procesos basados en el ciclo PHVA (planear, hacer, verificar y actuar).     
-    
-    p.mb-4 En términos de la planeación, las empresas de#[i  Contact Center] responsables de información de clientes o usuarios finales, deben:
+            p.mb-0 Debido a la evolución y crecimiento de los#[i  Contact Center] en los últimos años y al flujo de información que estos manejan, se ha hecho necesario que cada una de estas empresas adopten al interior de su organización procesos que garanticen la preservación y seguridad de la información de sus clientes, para lo cual las empresas de#[i  Contact Center] han implementado lo que se conoce como SGSI (Sistema de Gestión de la Seguridad de la Información), que contempla procesos basados en el ciclo PHVA (planear, hacer, verificar y actuar).    
 
-    .row
-      .col-auto
-        .bulletNumber
-          span 1
-      .col
-        p.mb-0 Determinar el flujo de información que poseen, cuál debe ser protegida, preservada y actualizada.
+    .row.justify-content-center.mb-5
+      .col-lg-10    
+        p.mb-4 En términos de la planeación, las empresas de#[i  Contact Center] responsables de información de clientes o usuarios finales, deben:
 
-    .hr_divider
-
-    .row.mb-5
-      .col-auto
-        .bulletNumber
-          span 2
-      .col
-        p.mb-0 Desarrollar procesos mediante los cuales se generen las pautas para la protección de la información (hacer), ya sea a través de mecanismos de seguridad informática, como de seguridad de la información y aunque estos dos términos parecen muy similares, en realidad mantienen ciertas diferencias. 
+        .row
+          .col-auto
+            .bulletNumber
+              span 1
+          .col
+            p.mb-0 Determinar el flujo de información que poseen, cuál debe ser protegida, preservada y actualizada.
+        .hr_divider
+        .row.mb-5
+          .col-auto
+            .bulletNumber
+              span 2
+          .col
+            p.mb-0 Desarrollar procesos mediante los cuales se generen las pautas para la protección de la información (hacer), ya sea a través de mecanismos de seguridad informática, como de seguridad de la información y aunque estos dos términos parecen muy similares, en realidad mantienen ciertas diferencias. 
 
     .crd.custom_bg_03B.mb-5
       .row.justify-content-center.align-items-center        
@@ -678,7 +678,7 @@ export default {
         icono: require('@/assets/curso/tema_1/icon_1_6_03.svg'),
       },
       {
-        titulo: 'Tarjetas de crédito',
+        titulo: 'Créditos bancarios',
         texto:
           'Se trata de dineros que una entidad financiera presta a sus cliente o consumidores, con el compromiso de ser pagado de forma periódica asumiendo las condiciones de dicho préstamo.',
         icono: require('@/assets/curso/tema_1/icon_1_6_04.svg'),
