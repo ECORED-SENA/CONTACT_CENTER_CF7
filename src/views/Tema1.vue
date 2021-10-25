@@ -104,7 +104,7 @@
                 img(src="@/assets/curso/tema_1/icon_1_1_02.svg", alt="alt", style="width:90px;").m-auto
             .col-12.text-center
               h4 Riesgo Mínimo
-              p #[strong Características:] capacidad de pago excelente
+              p #[strong Características comportamiento del cliente:] capacidad de pago excelente
               .hr_divider
               h5 Técnica de cobranza
               p Reflejar empatía, interés por el deudor.
@@ -113,10 +113,10 @@
           .row.justify-content-center
             .col-auto.my-4
               figure
-                img(src="@/assets/curso/tema_1/icon_1_1_02.svg", alt="alt", style="width:90px;").m-auto
+                img(src="@/assets/curso/tema_1/icon_1_1_03.svg", alt="alt", style="width:90px;").m-auto
             .col-12.text-center
               h4 Riesgo aceptable
-              p #[strong Características:] Capacidad de pago buena
+              p #[strong Características comportamiento del cliente:] Capacidad de pago buena
               .hr_divider
               h5 Técnica de cobranza
               p Interés por el cliente y muy buena negociación.
@@ -126,16 +126,122 @@
           .row.justify-content-center
             .col-auto.my-4
               figure
-                img(src="@/assets/curso/tema_1/icon_1_1_02.svg", alt="alt", style="width:90px;").m-auto
+                img(src="@/assets/curso/tema_1/icon_1_1_04.svg", alt="alt", style="width:90px;").m-auto
             .col-12.text-center
               h4 Riesgo alto
-              p #[strong Características:] Poca capacidad de pago. 
+              p #[strong Características comportamiento del cliente:] Poca capacidad de pago. 
               .hr_divider
               h5 Técnica de cobranza
               p Reflejar interés por el cliente, generar empatía y aplicar negociación. 
               p (ganar-perder)
 
-    .crd.custom_bg_03
+    .citaBox.mb-5
+      p.mb-0 Nota. Tomada de Morales y Morales (2014, p. 186). https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380
+
+    p Además de los factores para realizar gestiones de cobro vistos anteriormente, existe lo que en Colombia se conoce como los “tipos de cobranza”, los que se aplican teniendo en cuenta las alturas de las moras de los clientes, es decir, estos tipos de cobranzas se clasifican de acuerdo con el tiempo que el cliente tiene acumulado de no pago de su obligación.
+    p.mb-5 En Colombia se manejan cuatro tipos de cobranza, los que se mencionan a continuación:
+
+
+    h3.mb-5 Tipos de clientes en cobranzas
+
+    .tarjeta.tarjeta--purple.p-4.mb-5
+      SlyderA
+        .row   
+          .col-lg-6
+            .avatar
+              .avatar__img                
+                img(src="@/assets/curso/tema_1/avatar_1_1_01.svg", alt="alt", style="width:350px;").m-auto
+              .avatar__body
+                p #[strong Características]
+                p Finge no saber las condiciones de la deuda.
+                .hr_divider
+                p #[strong Manejo]
+                p.mb-0 Se debe brindar toda la información necesaria, manejo de objeciones razonables, generar empatía con el cliente.
+          .col-lg-6
+            .avatar
+              .avatar__img                
+                img(src="@/assets/curso/tema_1/avatar_1_1_02.svg", alt="alt", style="width:350px;").m-auto
+              .avatar__body
+                p #[strong Características]
+                p Hace sentir al cobrador como funcionario sin jerarquía ni autonomía.
+                .hr_divider
+                p #[strong Manejo]
+                p.mb-0 Manejo de objeciones razonables, negociación (ganar-perder), a pesar del comportamiento del cliente reflejar siempre empatía.
+        .row   
+          .col-lg-6
+            .avatar
+              .avatar__img                
+                img(src="@/assets/curso/tema_1/avatar_1_1_03.svg", alt="alt", style="width:350px;").m-auto
+              .avatar__body
+                p #[strong Características]
+                p Carácter fuerte, irritable, busca atemorizar o que se le enfrente.
+                .hr_divider
+                p #[strong Manejo]
+                p.mb-0 No demostrar temor, escucharlo, reflejar empatía, interés por el deudor, negociación (gana-gana).
+          .col-lg-6
+            .avatar
+              .avatar__img                
+                img(src="@/assets/curso/tema_1/avatar_1_1_04.svg", alt="alt", style="width:350px;").m-auto
+              .avatar__body
+                p #[strong Características]
+                p Poco inteligente, testarudo. 
+                .hr_divider
+                p #[strong Manejo]
+                p.mb-0 Se debe reflejar seguridad ante el cliente, escuchar muy bien sus objeciones razonables, negociación (ganar-perder).
+        .row   
+          .col-lg-6
+            .avatar
+              .avatar__img                
+                img(src="@/assets/curso/tema_1/avatar_1_1_05.svg", alt="alt", style="width:350px;").m-auto
+              .avatar__body
+                p #[strong Características]
+                p Es un cliente inteligente, pero desconfiado, duda de la información que se le da. 
+
+                .hr_divider
+                p #[strong Manejo]
+                p.mb-0 Reflejar empatía y seguridad y confianza, manejo de objeciones razonables, negociación (ganar-perder).
+          .col-lg-6
+            .avatar
+              .avatar__img                
+                img(src="@/assets/curso/tema_1/avatar_1_1_06.svg", alt="alt", style="width:350px;").m-auto
+              .avatar__body
+                p #[strong Características]
+                p En la mayoría de los casos inventa toda clase de calamidades. 
+                .hr_divider
+                p #[strong Manejo]
+                p.mb-0 Escuchar muy bien las objeciones razonables, reflejar empatía y solidaridad, negociación (gana-gana).
+        .row   
+          .col-lg-6
+            .avatar
+              .avatar__img                
+                img(src="@/assets/curso/tema_1/avatar_1_1_07.svg", alt="alt", style="width:350px;").m-auto
+              .avatar__body
+                p #[strong Características]
+                p Es atento, cordial, manifiesta estar de acuerdo con la negociación, pero no paga. 
+ 
+
+                .hr_divider
+                p #[strong Manejo]
+                p.mb-0 Se debe reflejar empatía, la comunicación debe ser clara y concreta, generar motivación mediante negociación (ganar-perder).
+          .col-lg-6
+            .avatar
+              .avatar__img                
+                img(src="@/assets/curso/tema_1/avatar_1_1_08.svg", alt="alt", style="width:350px;").m-auto
+              .avatar__body
+                p #[strong Características]
+                p Realmente estará ocupado. 
+                .hr_divider
+                p #[strong Manejo]
+                p.mb-0 Validar horarios de contacto y por ningún motivo entregar la información del estado de la deuda a terceros, solamente se deja mensaje de número de teléfono donde el cliente puede llamar.
+    br
+    .citaBox.mb-5
+      p.mb-0 Nota. Tomada de Morales y Morales (2014, p. 186). https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380
+
+    
+    p.mb-5 En cuanto a los tiempos de morosidad que se pueden tomar en cuenta para los cobros jurídicos, se puede decir que no hay uno establecido, porque como se mencionó, estos tiempos dependen del tiempo que se invierta en la cobranza prejuridica y ellos dependen del acreedor.
+
+
+    .crd.custom_bg_03.mb-5
 
       h4.position-relative.my-5 Objeciones de clientes en cobranzas 
 
@@ -181,7 +287,47 @@
                 p #[strong Comportamiento:] por lo general el cliente manifiesta objeción válida.  
                 p #[strong Manejo:] reflejar mucho interés en el cliente, mucha empatía y solidaridad con la situación, ofrecer alternativa de negociación (ganar-perder), para generar en el cliente la sensación de querer ayudarle. 
 
-    
+    .citaBox.mb-5
+      p.mb-0 Nota. Tomada de Morales y Morales (2014, p. 186). https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380
+
+    .row.justify-content-center.mb-5
+      .col-lg-10
+        p Además de los factores para realizar gestiones de cobro vistos anteriormente, existe lo que en Colombia se conoce como los “tipos de cobranza”, los que se aplican teniendo en cuenta las alturas de las moras de los clientes, es decir, estos tipos de cobranzas se clasifican de acuerdo con el tiempo que el cliente tiene acumulado de no pago de su obligación.
+        p En Colombia se manejan cuatro tipos de cobranza, los que se mencionan a continuación:
+
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-6.order-2.order-lg-1
+        LineaTiempoD.color-secundario
+          p(numero="1" titulo="Cobranza preventiva") Este tipo de cobranza tiene como principal objetivo, realizar gestión de cobro antes de que el cliente caiga en alguna morosidad, generalmente se realiza a través de mensajes de texto o correos electrónicos y consiste en recordar al cliente las fechas límites de pago y los montos por cancelar.
+            br
+            br
+            | En la mayoría de los casos se trata de una cobranza no personalizada, ya que el cliente no tiene contacto con gestores de cobro, pero debe ser manejada con especial cuidado de manera tal que no genere incomodidad en los clientes, pues a nadie le gusta que le cobren sin tener incumplimientos de pago.
+
+          p(numero="2" titulo="Cobranza administrativa") Aunque se clasifica como un tipo de cobranza se trata, más bien, de una gestión administrativa, en donde los acreedores se encargan de implementar mecanismos de recaudo que resulten más efectivos y viables para que los deudores puedan poner al día sus obligaciones, es lo que comúnmente se conoce como mecanismos de normalización de cartera.
+
+          p(numero="3" titulo="Cobranza prejurídica") Es la gestión de cobro que se realiza inmediatamente después de haberse cumplido los plazos máximos de un pago, es decir, se estaría en cobro prejurídico a partir del día 1 de incumplimiento.
+            br
+            br
+            | En cuanto a los tiempos máximos para ser considerada cobranza jurídica, estos podrían variar dependiendo del acreedor. En este tipo de cobranza se emplean mecanismos de cartera administrativa buscando lograr acuerdos de pago.
+
+
+          p(numero="4" titulo="Cobranza jurídica") Es el proceso legal mediante el cual se busca que un deudor cumpla sus obligaciones con su acreedor, generalmente el cobro jurídico se genera después de haberse agotado todos los recursos de la cobranza prejurídica, este tipo de cobranza la realizan terceros, principalmente oficinas de abogados especializados en esta labor.
+
+      .col-lg-6.order-1.order-lg-2.mb-5.mb-lg-0
+        figure.position-relative
+          img(src="@/assets/curso/tema_1/img_1_1_02.png", alt="Gestión de cobro", style="width:450px;").m-auto
+
+    .row.justify-content-center
+      .col-lg-10
+        .crd.crd_highligt_rigth.clr_primario_h2.custom_bg_01.mb-5(data-aos="flip-up")
+          .row.justify-content-around.align-items-center
+            .col-auto.mb-4.mb-lg-0
+              img(src="@/assets/curso/tema_1/icon_1_1_01.svg", style="width:90px").m-auto
+            .col-lg
+              p.text-white.mb-0 En cuanto a los tiempos de morosidad que se pueden tomar en cuenta para los cobros jurídicos, se puede decir que no hay uno establecido, porque como se mencionó, estos tiempos dependen del tiempo que se invierta en la cobranza prejuridica y ellos dependen del acreedor.
+
+    separador
 
     #T_1_2.titulo-segundo.mt-5
       h2 1.2 Cartera y tipos de cartera
@@ -249,7 +395,7 @@
             br
             | Casi siempre estos acuerdos modifican las condiciones de los créditos inicialmente pactados, ya que estipulan un nuevo plan de pagos (plazos máximos), las fechas y los montos que se establezcan al momento de la firma del acuerdo, en algunas ocasiones y dependiendo de la negociación realizada es posible eliminar los intereses moratorios. 
 
-          p(numero="2" titulo="Acuerdos de pago") “Cualquier mecanismo excepcional, instrumentado mediante la celebración y/o ejecución de cualquier negocio jurídico, que tenga por objeto modificar las condiciones originalmente pactadas con el fin de permitirle al deudor la atención adecuada de su obligación ante el real o potencial deterioro de su capacidad de pago”.
+          p(numero="2" titulo="Reestructuración del crédito") “Cualquier mecanismo excepcional, instrumentado mediante la celebración y/o ejecución de cualquier negocio jurídico, que tenga por objeto modificar las condiciones originalmente pactadas con el fin de permitirle al deudor la atención adecuada de su obligación ante el real o potencial deterioro de su capacidad de pago”.
             br
             br
             | #[i.text-small Tomado de concepto 2009000056-001 de Superintendencia Financiera Circular Externa 100 de 1995].
@@ -262,7 +408,7 @@
             br
             | Sin embargo, es importante no olvidar que en la refinanciación los plazos de pago se extienden lo que implica que el monto total se eleve un poco más respecto a los montos originales.
 
-          p(numero="4" titulo="Refinanciación del crédito") Consiste en la modificación de las condiciones pactadas en el crédito relacionados con los tiempos de pago, generalmente esta alternativa se ofrece para morosidades bajas, es decir, cuando el cliente tiene muy poco tiempo de incumplimiento, se aplica cuando el cliente solicita esta alternativa, el gestor de cobro nunca la ofrece y se da cuando el cliente dentro de las razones de no pago manifiesta que inconvenientes con las fechas de los pagos.   
+          p(numero="4" titulo="Ampliación de plazos") Consiste en la modificación de las condiciones pactadas en el crédito relacionados con los tiempos de pago, generalmente esta alternativa se ofrece para morosidades bajas, es decir, cuando el cliente tiene muy poco tiempo de incumplimiento, se aplica cuando el cliente solicita esta alternativa, el gestor de cobro nunca la ofrece y se da cuando el cliente dentro de las razones de no pago manifiesta que inconvenientes con las fechas de los pagos.   
             br
             br
             | En realidad es una operación muy sencilla y muy usual en las gestiones de cobro y resulta beneficiosa para los clientes, ya que por el hecho de ampliar los tiempos de pagos, el valor del pago puede disminuir, lo que garantiza el cumplimiento con la obligación.
@@ -294,6 +440,9 @@
             p.mb-0 En el artículo 3° de la Ley 1266 de 2008, se establecen las definiciones de los actores de la Ley Habeas Data, así como sus deberes y derechos, los que se resumen en la siguiente tabla.
 
     .tabla-a.color-primario.mb-5
+      .titulo-sexto.color-acento-contenido
+        h5 Actores en la ley #[i Habeas Data]
+      
       table
         caption Nota. Tomada de Ley 1266 de 2008, Ley Habeas Data (Congreso de Colombia, 2008).
         thead
@@ -382,6 +531,8 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Ahora bien, de acuerdo con lo mencionado anteriormente y tratándose de las gestiones de cobro, es importante tener en cuenta que la Ley 1266 de 2008, toma una mayor relevancia, porque esta permite regular el tratamiento de los datos de clientes que presentan incumplimientos en sus obligaciones crediticias y que de acuerdo con el tiempo de sus incumplimientos (alturas de mora), estos les pueden generar reportes en lo que comúnmente conocemos como centrales de información financiera o centrales de riesgo, las que en Colombia son Datacrédito y Cifin.
 
+    h2.text-center Centrales de información financiera 
+
     PasosA.color-primario.mb-5(tipo="n")
       .row
         .col-12.text-start
@@ -461,10 +612,12 @@
       h2 1.6 Productos financieros 
 
     .banner_B.mb-5
-      .banner_B__img.Img_BG_05         
-      .banner_B__body
-        p Debido al crecimiento que el sector financiero ha tenido en Colombia desde la década de los noventa, la utilización de los servicios y productos financieros se ha incrementado tanto en personas naturales como jurídicas, esto ha generado que los diferentes productos financieros se popularicen y masifiquen en la sociedad colombiana.
-        p.mb-0 Tanto ha sido el auge de los productos financieros en Colombia, que hoy se pueden encontrar dentro del mercado bancario productos ajustados a las necesidades de los consumidores en criterios de accesibilidad, perfil económico, capacidad adquisitiva, alternativas de ahorro e inversión, lo que ha permitido que cada vez más personas ingresen al sistema financiero y por ende al sistema crediticio.
+      .banner_B__img.Img_BG_05   
+              
+        .banner_B__body
+          p Debido al crecimiento que el sector financiero ha tenido en Colombia desde la década de los noventa, la utilización de los servicios y productos financieros se ha incrementado tanto en personas naturales como jurídicas, esto ha generado que los diferentes productos financieros se popularicen y masifiquen en la sociedad colombiana.
+          p.mb- Tanto ha sido el auge de los productos financieros en Colombia, que hoy se pueden encontrar dentro del mercado bancario productos ajustados a las necesidades de los consumidores en criterios de accesibilidad, perfil económico, capacidad adquisitiva, alternativas de ahorro e inversión, lo que ha permitido que cada vez más personas ingresen al sistema financiero y por ende al sistema crediticio.
+          
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-5.mb-lg-0
@@ -509,7 +662,7 @@
             p Es importante tener en cuenta que la tasa de interés se aplica como una forma de garantía frente al nivel de riesgo que pueda presentar el deudor, lo cual evita que la entidad financiera pierda dinero en caso de algún incumplimiento.
 
             .cajon.clr_acentoCont_h1.p-4.mb-4       
-              p.mb-0 Los principales criterios de seguridad y calidad que contempla la circular corresponden a criterios de confidencialidad, integridad, disponibilidad, eficiencia, efectividad y confiabilidad de la información que se posee de las personas naturales o jurídicas, los que son de estricta responsabilidad de cumplimiento para todas las entidades vigiladas por la Superintendencia Financiera, como, por ejemplo, los bancos y las entidades de servicios y comerciales.
+              p.mb-0 Generalmente las tasas de interés están representadas en porcentaje y el monto máximo y mínimo lo fija y regula el Banco de la República que, a través de la junta directiva, determina las condiciones y el límite de tasa de interés que debe pagar el titular del producto financiero. 
 
           .col-lg-6
             figure
@@ -627,7 +780,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-5.mb-lg-0
         figure
-          img(src="@/assets/curso/tema_1/img_1_7_04.png", alt="alt", style="width:450px;").m-auto 
+          img(src="@/assets/curso/tema_1/img_1_7_04.png", alt="alt", style="width:320px;").m-auto 
       .col-lg-7
         p Esta norma hace referencia a la norma de calidad internacional, que rige para todos los procesos de seguridad de la información y que aplica para las empresas de#[i  Contact Center] BPO, esta norma de calidad brinda los lineamientos para establecer los procesos de SGSI.
         p #[span.highlight El estar certificados en esta norma de calidad ISO 27001, ayuda a las empresas a establecer los parámetros de coordinación y comunicación con todas las áreas de la operación], de manera tal que se genere una sinergia con cada una de ellas en torno a la seguridad de la información de los cliente, es decir, cada área tendrá su grado de responsabilidad en el cumplimiento de los estándares de la norma y por ende responsabilidad en adoptar los mecanismos y proceso que permitan salvaguardar la información de los clientes. 

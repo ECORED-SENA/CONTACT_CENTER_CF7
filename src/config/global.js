@@ -182,34 +182,33 @@ export default {
   ],
   complementario: [
     {
-      texto:
-        'Gestión de cobro y recuperación de cartera.López, J. F. (2019).Acuerdo de pago.Economipedia.com ',
+      texto: 'López, J. F. (2019).Acuerdo de pago.Economipedia.com ',
       tipo: 'Artículo ',
       link: 'https://economipedia.com/definiciones/acuerdo-de-pago.html',
     },
     {
       texto:
-        'Ley Habeas Data. Congreso de Colombia. (2008). Ley Estatutaria 1266 del 31 de diciembre de 2008, por la cual se dictan las disposiciones generales del hábeas data y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones.  ',
+        'Ley Estatutaria 1266 del 31 de diciembre de 2008, por la cual se dictan las disposiciones generales del hábeas data y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones.  ',
       tipo: 'PDF',
       descarga: '/downloads/Ley_1266_2008.pdf',
     },
     {
       texto:
-        'Circulares Superintendencia Financiera. Superintendencia Financiera. (2008). Circular Externa 052. Superintendencia Financiera de Colombia. ',
+        'Superintendencia Financiera. (2008). Circular Externa 052. Superintendencia Financiera de Colombia. ',
       tipo: 'Artículo',
       link:
         'https://www.superfinanciera.gov.co/jsp/Buscador/busqueda/BuscadorArchivos/idRecurso/21560/f/0/c/0',
     },
     {
       texto:
-        'Circulares Superintendencia Financiera. Superintendencia Financiera. (2008). Circular Externa 048. Superintendencia Financiera de Colombia. ',
+        'Superintendencia Financiera. (2008). Circular Externa 048. Superintendencia Financiera de Colombia. ',
       tipo: 'Artículo',
       link:
         'https://www.superfinanciera.gov.co/inicio/normativa/historico-normas-de-las-anteriores-superintendencias-bancaria-y-de-valores-/historico-de-circulares-superintendencia-bancaria/circulares-externas/-17889',
     },
     {
       texto:
-        'Indicadores de cobranzas. Duemint.com. (2021). ¿Cuáles son las técnicas de cobranza efectiva? ',
+        'Duemint.com. (2021). ¿Cuáles son las técnicas de cobranza efectiva? ',
       tipo: 'Artículo',
       link:
         'https://blog.duemint.com/cuales-son-las-tecnicas-de-cobranza-efectiva/',
@@ -309,7 +308,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: '---',
+        nombre: 'Maria Isabel Román Rueda',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

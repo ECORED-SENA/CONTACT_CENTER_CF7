@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-4 ¿Por qué es importante el estudio de la gestión de cobro en el #[i Contact Center BPO]?. El siguiente video presenta una respuesta a este interrogante, indicando las temáticas a trabajar. 
+    p.mb-4 ¿Por qué es importante el estudio de la gestión de cobro en el #[i Contact Center BPO]? El siguiente video presenta una respuesta a este interrogante, indicando las temáticas a trabajar. 
     
     figure.mb-5
       .video

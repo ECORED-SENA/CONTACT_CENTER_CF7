@@ -48,7 +48,7 @@
 
           .row(titulo="Reportes de calidad")
             .col-12
-              p Corresponde como al resultado de los desempeños de los asesores. Para la gestión de estos reportes no se requiere de un software especial, en la mayoría de los casos se utiliza un instrumento de evaluación denominado matriz de calidad que contiene las variables y las ponderaciones para la respectiva medición, el proceso de evaluación se realiza mediante el monitoreo de llamadas de los asesores (escucha de llamadas grabadas o en línea)  y esta gestión siempre está a cargo de los analistas de calidad que, además de escuchar las llamadas, deben dar retroalimentación de su desempeño a los gestores de cobro y acompañar en la aplicación de los planes de mejora.  
+              p Corresponde al resultado de los desempeños de los asesores. Para la gestión de estos reportes no se requiere de un software especial, en la mayoría de los casos se utiliza un instrumento de evaluación denominado matriz de calidad que contiene las variables y las ponderaciones para la respectiva medición, el proceso de evaluación se realiza mediante el monitoreo de llamadas de los asesores (escucha de llamadas grabadas o en línea)  y esta gestión siempre está a cargo de los analistas de calidad que, además de escuchar las llamadas, deben dar retroalimentación de su desempeño a los gestores de cobro y acompañar en la aplicación de los planes de mejora.  
             
       .col-lg-4.order-1.order-lg-2.mb-5.mb-lg-0
         figure
@@ -82,7 +82,7 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Es decir, el informe contiene un análisis, unas causas del resultado, en algunos casos puede contener secuencialidad y trazabilidad de los indicadores, análisis comparativo respecto a otros periodos de tiempo y siempre van dirigidos a jerarquías más altas dentro de la operación, como por ejemplo a los gerentes de operaciones o directores. 
 
-    p.mb-0 En la mayoría de los casos estos informes de gestión tienen la finalidad de mostrar el comportamiento de la operación y de los gestores de cobro a la luz del resultado de todos los indicadores de gestión y son la principal herramienta dentro de la campaña para la toma de decisiones
+    p.mb-0 En la mayoría de los casos estos informes de gestión tienen la finalidad de mostrar el comportamiento de la operación y de los gestores de cobro a la luz del resultado de todos los indicadores de gestión y son la principal herramienta dentro de la campaña para la toma de decisiones.
 
 
 
