@@ -239,7 +239,7 @@
 
     .crd.custom_bg_03.mb-5
 
-      h3.position-relative.my-5 Objeciones de clientes en cobranzas 
+      h3.position-relative.my-5.ml Objeciones de clientes en cobranzas 
 
       .row.justify-content-center.position-relative
         .col-lg-5.mb-4
