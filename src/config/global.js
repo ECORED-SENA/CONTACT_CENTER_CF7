@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Gestión de cobro en BPO',
     descripcionCurso:
-      'A través de este componente formativo, el aprendiz debe apropiar los elementos y conceptos necesarios, relacionados con la gestión de cobranza áreas de Contact Center BPO, todos sus procesos, características e indicadores de gestión que le permitirán afianzar habilidades y destrezas que garanticen procesos de cobranza y recuperación de cartera efectivos.',
+      'A través de este componente formativo, el aprendiz debe apropiar los elementos y conceptos necesarios, relacionados con la gestión de cobranza áreas de <i>Contact Center BPO</i>, todos sus procesos, características e indicadores de gestión que le permitirán afianzar habilidades y destrezas que garanticen procesos de cobranza y recuperación de cartera efectivos.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },

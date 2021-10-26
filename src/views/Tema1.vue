@@ -93,7 +93,7 @@
 
         p.mb-5 En las siguientes tablas se podrá observar, de manera resumida, cuáles podrían ser los posibles comportamientos de los clientes en cobranza, sus características y la técnica de cobranza a aplicar.
 
-    h4.mb-5 Según el riesgo de pérdida de la deuda
+    h3.mb-5 Según el riesgo de pérdida de la deuda
 
     .row.mb-5 
       .col-lg-4.mb-4.mb-lg-0
@@ -136,10 +136,9 @@
               p (ganar-perder)
 
     .citaBox.mb-5
-      p.mb-0 Nota. Tomada de Morales y Morales (2014, p. 186). https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380
+      p.mb-0 Nota. Tomada de Morales y Morales (2014, p. 186). #[a(href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380", target="_blank") https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380] 
 
-    p Además de los factores para realizar gestiones de cobro vistos anteriormente, existe lo que en Colombia se conoce como los “tipos de cobranza”, los que se aplican teniendo en cuenta las alturas de las moras de los clientes, es decir, estos tipos de cobranzas se clasifican de acuerdo con el tiempo que el cliente tiene acumulado de no pago de su obligación.
-    p.mb-5 En Colombia se manejan cuatro tipos de cobranza, los que se mencionan a continuación:
+      a(href="#", title="title").class    
 
 
     h3.mb-5 Tipos de clientes en cobranzas
@@ -235,15 +234,12 @@
                 p.mb-0 Validar horarios de contacto y por ningún motivo entregar la información del estado de la deuda a terceros, solamente se deja mensaje de número de teléfono donde el cliente puede llamar.
     br
     .citaBox.mb-5
-      p.mb-0 Nota. Tomada de Morales y Morales (2014, p. 186). https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380
-
-    
-    p.mb-5 En cuanto a los tiempos de morosidad que se pueden tomar en cuenta para los cobros jurídicos, se puede decir que no hay uno establecido, porque como se mencionó, estos tiempos dependen del tiempo que se invierta en la cobranza prejuridica y ellos dependen del acreedor.
+      p.mb-0 Nota. Tomada de Morales y Morales (2014, p. 186). #[a(href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380", target="_blank") https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380]   
 
 
     .crd.custom_bg_03.mb-5
 
-      h4.position-relative.my-5 Objeciones de clientes en cobranzas 
+      h3.position-relative.my-5 Objeciones de clientes en cobranzas 
 
       .row.justify-content-center.position-relative
         .col-lg-5.mb-4
@@ -288,7 +284,7 @@
                 p #[strong Manejo:] reflejar mucho interés en el cliente, mucha empatía y solidaridad con la situación, ofrecer alternativa de negociación (ganar-perder), para generar en el cliente la sensación de querer ayudarle. 
 
     .citaBox.mb-5
-      p.mb-0 Nota. Tomada de Morales y Morales (2014, p. 186). https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380
+      p.mb-0 Nota. Tomada de Morales y Morales (2014, p. 186). #[a(href="https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380", target="_blank") https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/39380]
 
     .row.justify-content-center.mb-5
       .col-lg-10
@@ -325,7 +321,7 @@
             .col-auto.mb-4.mb-lg-0
               img(src="@/assets/curso/tema_1/icon_1_1_01.svg", style="width:90px").m-auto
             .col-lg
-              p.text-white.mb-0 En cuanto a los tiempos de morosidad que se pueden tomar en cuenta para los cobros jurídicos, se puede decir que no hay uno establecido, porque como se mencionó, estos tiempos dependen del tiempo que se invierta en la cobranza prejuridica y ellos dependen del acreedor.
+              p.text-white.mb-0 En cuanto a los tiempos de morosidad que se pueden tomar en cuenta para los cobros jurídicos, se puede decir que no hay uno establecido, porque como se mencionó, estos tiempos dependen del tiempo que se invierta en la cobranza prejurídica y ellos dependen del acreedor.
 
     separador
 
@@ -420,11 +416,11 @@
     Separador
 
     #T_1_4.titulo-segundo
-      h2 1.4 Ley Habeas Data
+      h2 1.4 Ley #[i Habeas Data]
 
     .banner_A.mb-5     
       .banner_A__body
-        p.text-white.mb-0 La Ley 1266 del 2008, más conocida como ley habeas data, tiene como objeto desarrollar el derecho constitucional que tienen todos los colombianos de conocer, actualizar y rectificar la información que se haya recogido sobre ellos en bancos de datos y los demás derechos, libertades y garantías constitucionales relacionadas con la recolección tratamiento y circulación de datos personales a que se refiere el artículo 15 de la Constitución Política, así como, el derecho a la información establecido en el artículo 20 de la Constitución Política particularmente en relación con la información financiera y crediticia, comercial de servicios y la proveniente de terceros (Ley 1266 del 31 de diciembre de 2008).     
+        p.text-white.mb-0 La Ley 1266 del 2008, más conocida como ley #[i habeas data], tiene como objeto desarrollar el derecho constitucional que tienen todos los colombianos de conocer, actualizar y rectificar la información que se haya recogido sobre ellos en bancos de datos y los demás derechos, libertades y garantías constitucionales relacionadas con la recolección tratamiento y circulación de datos personales a que se refiere el artículo 15 de la Constitución Política, así como, el derecho a la información establecido en el artículo 20 de la Constitución Política particularmente en relación con la información financiera y crediticia, comercial de servicios y la proveniente de terceros (Ley 1266 del 31 de diciembre de 2008).     
       .banner_A__img.Img_BG_02   
 
 
@@ -437,7 +433,7 @@
         .col-lg-6
           p De acuerdo con el artículo 2° de la misma Ley, esta aplica a todos los datos de información personal registrados en banco de datos y que sean administrados ya sea por entidades públicas o privadas, exceptuando a los datos mantenidos en el ámbito personal o doméstico o que circulan internamente.
           .cajon.clr_acentoCont_h1.p-4.mb-4       
-            p.mb-0 En el artículo 3° de la Ley 1266 de 2008, se establecen las definiciones de los actores de la Ley Habeas Data, así como sus deberes y derechos, los que se resumen en la siguiente tabla.
+            p.mb-0 En el artículo 3° de la Ley 1266 de 2008, se establecen las definiciones de los actores de la Ley #[i habeas data], así como sus deberes y derechos, los que se resumen en la siguiente tabla.
 
     .tabla-a.color-primario.mb-5
       .titulo-sexto.color-acento-contenido
