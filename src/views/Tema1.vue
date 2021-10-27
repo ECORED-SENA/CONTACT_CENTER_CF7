@@ -336,7 +336,7 @@
           img(src="@/assets/curso/tema_1/img_1_2_01.jpg", alt="Reportes").m-auto      
               
         .crd.clr_primario_h0.p-5.mb-5
-          p La cartera representa lo que se tiene, lo que se debe y lo que le deben a una entidad comercial, y el seguimiento se realiza a través de los balances que se realizan en la mayoría de los casos a través de las áreas contables dé cada empresa.
+          p La cartera representa lo que se tiene, lo que se debe y lo que le deben a una entidad comercial, y el seguimiento se realiza a través de los balances que se realizan en la mayoría de los casos a través de las áreas contables de cada empresa.
           p.mb-0 Es importante recalcar que, a diferencia de lo que se piensa, cuando se habla de cartera esta no hace referencia solamente a las deudas u obligaciones, hablar de cartera hace referencia a todos los movimientos comerciales que se pueden generar dentro de una compañía y la forma como están representados los activos de estas.
 
     p.mb-5 El sector financiero clasifica la cartera en gestiones de cobranza de tres formas:
@@ -404,7 +404,7 @@
             br
             | Sin embargo, es importante no olvidar que en la refinanciación los plazos de pago se extienden lo que implica que el monto total se eleve un poco más respecto a los montos originales.
 
-          p(numero="4" titulo="Ampliación de plazos") Consiste en la modificación de las condiciones pactadas en el crédito relacionados con los tiempos de pago, generalmente esta alternativa se ofrece para morosidades bajas, es decir, cuando el cliente tiene muy poco tiempo de incumplimiento, se aplica cuando el cliente solicita esta alternativa, el gestor de cobro nunca la ofrece y se da cuando el cliente dentro de las razones de no pago manifiesta que inconvenientes con las fechas de los pagos.   
+          p(numero="4" titulo="Ampliación de plazos") Consiste en la modificación de las condiciones pactadas en el crédito relacionadas con los tiempos de pago, generalmente esta alternativa se ofrece para morosidades bajas, es decir, cuando el cliente tiene muy poco tiempo de incumplimiento, se aplica cuando el cliente solicita esta alternativa, el gestor de cobro nunca la ofrece y se da cuando el cliente dentro de las razones de no pago manifiesta inconvenientes con las fechas de los pagos.   
             br
             br
             | En realidad es una operación muy sencilla y muy usual en las gestiones de cobro y resulta beneficiosa para los clientes, ya que por el hecho de ampliar los tiempos de pagos, el valor del pago puede disminuir, lo que garantiza el cumplimiento con la obligación.
@@ -440,17 +440,17 @@
         h5 Actores en la ley #[i Habeas Data]
       
       table
-        caption Nota. Tomada de Ley 1266 de 2008, Ley Habeas Data (Congreso de Colombia, 2008).
+        caption Nota. Tomada de Ley 1266 de 2008, Ley #[i Habeas Data] (Congreso de Colombia, 2008).
         thead
           tr
-            th Actores en la Ley Habeas Data
+            th Actores en la Ley #[i Habeas Data]
             th Definiciones
             th Requisitos y obligaciones
         tbody
           tr
             td Titular de la informaci&oacute;n. 
             td
-              | Es la persona natural o jur&iacute;dica de quien se refiere la informaci&oacute;n que se encuentra en el banco de datos y est&aacute; sujeto al derecho de Habeas Data.
+              | Es la persona natural o jur&iacute;dica de quien se refiere la informaci&oacute;n que se encuentra en el banco de datos y est&aacute; sujeto al derecho de #[i Habeas Data].
             td
           tr
             td Fuente de la informaci&oacute;n. 
@@ -472,7 +472,7 @@
             td
               | Corresponde a la persona o entidad que recibe los datos personales de varios titulares, los administra y los pone en conocimiento de los usuarios bajo los par&aacute;metros de la ley, por ejemplo, Datacr&eacute;dito y Cifin.
             td
-              | - Garantizar en todo momento al titular de la informaci&oacute;n el ejercicio del derecho del Habeas Data. 
+              | - Garantizar en todo momento al titular de la informaci&oacute;n el ejercicio del derecho del #[i Habeas Data]. 
               br
               br
               | - Garantizar que en la recolecci&oacute;n, tratamiento y circulaci&oacute;n de datos se respeten los dem&aacute;s derechos consagrados en la ley. 
@@ -501,7 +501,7 @@
               br
               | - Deben informar a los titulares sobre la utilizaci&oacute;n que se le est&aacute; dando a la informaci&oacute;n.
 
-    p.mb-5 Después de haber revisado los actores o participantes en la Ley Habeas Data y en donde de acuerdo con su significado, se parametriza la utilización de los datos de las demás personas, es importante mirar detalladamente a qué datos hace referencia la ley.
+    p.mb-5 Después de haber revisado los actores o participantes en la Ley #[i Habeas Data] y en donde de acuerdo con su significado, se parametriza la utilización de los datos de las demás personas, es importante mirar detalladamente a qué datos hace referencia la ley.
     
 
     .row.justify-content-center.mb-5
@@ -550,7 +550,7 @@
         figure
           img(src="@/assets/curso/tema_1/img_1_5_01.svg", alt="alt", style="width:650px;").m-auto
       .col-lg-6
-        p Así como la Ley 1266 del 2008 o Ley Habeas Data entrega los parámetros para el tratamiento de la información de los clientes en gestiones de cobro, la Superintendencia Financiera también cumple una importante labor desde el marco normativo en cobranza, ya que se encarga de impartir las respectivas orientaciones y órdenes de cómo se debe hacer cumplir la Ley 1266, al mismo tiempo que realiza seguimiento para garantizar dicho cumplimiento.
+        p Así como la Ley 1266 del 2008 o Ley #[i Habeas Data] entrega los parámetros para el tratamiento de la información de los clientes en gestiones de cobro, la Superintendencia Financiera también cumple una importante labor desde el marco normativo en cobranza, ya que se encarga de impartir las respectivas orientaciones y órdenes de cómo se debe hacer cumplir la Ley 1266, al mismo tiempo que realiza seguimiento para garantizar dicho cumplimiento.
 
         p #[span.highlight La Superintendencia Financiera emite una serie de circulares externas las que son comunicaciones generales que contienen normas e instrucciones las que son de inmediato cumplimiento para las entidades u organizaciones vigiladas por dicha entidad]. Para el caso de las gestiones de cobro y demás actividades relacionadas con el sector financiero hacia los clientes, la Superintendencia Financiera ha emitido la Circular 052 de 2008, la que tiene como principal finalidad establecer los requerimientos mínimos de seguridad y calidad en el manejo de información a través de canales de distribución de productos y servicios.
 
@@ -672,7 +672,7 @@
               figure.mb-4
                 img(src="@/assets/curso/tema_1/icon_1_6_06.svg", alt="alt", style="width:90px;").m-auto
               p #[strong Tasa de interés nominal] 
-              p Corresponde al porcentaje que se agrega al capital inicial del crédito, por un periodo determinad de tiempo, se pueden cobrar mensual, bimensual, trimestral, semestral o anual. 
+              p Corresponde al porcentaje que se agrega al capital inicial del crédito, por un periodo determinado de tiempo, se pueden cobrar mensual, bimensual, trimestral, semestral o anual. 
 
           .col-10.col-md-5.col-xl-3.mb-4
             .crd.crd_roundBorders.clr_darkPurple.text-white.crd_bottom_highlight.h100
@@ -779,7 +779,7 @@
           img(src="@/assets/curso/tema_1/img_1_7_04.png", alt="alt", style="width:320px;").m-auto 
       .col-lg-7
         p Esta norma hace referencia a la norma de calidad internacional, que rige para todos los procesos de seguridad de la información y que aplica para las empresas de#[i  Contact Center] BPO, esta norma de calidad brinda los lineamientos para establecer los procesos de SGSI.
-        p #[span.highlight El estar certificados en esta norma de calidad ISO 27001, ayuda a las empresas a establecer los parámetros de coordinación y comunicación con todas las áreas de la operación], de manera tal que se genere una sinergia con cada una de ellas en torno a la seguridad de la información de los cliente, es decir, cada área tendrá su grado de responsabilidad en el cumplimiento de los estándares de la norma y por ende responsabilidad en adoptar los mecanismos y proceso que permitan salvaguardar la información de los clientes. 
+        p #[span.highlight El estar certificados en esta norma de calidad ISO 27001, ayuda a las empresas a establecer los parámetros de coordinación y comunicación con todas las áreas de la operación], de manera tal que se genere una sinergia con cada una de ellas en torno a la seguridad de la información de los clientes, es decir, cada área tendrá su grado de responsabilidad en el cumplimiento de los estándares de la norma y por ende responsabilidad en adoptar los mecanismos y proceso que permitan salvaguardar la información de los clientes. 
 
 
         
@@ -817,19 +817,19 @@ export default {
       {
         titulo: 'Cuenta de ahorros',
         texto:
-          'Producto por medio del cual se puede depositar dinero para confiarlo a la entidad bancaria y generar ahorro. Es importante que si el dinero depositado se mantiene en la cuenta, el banco puede entregar utilidades de operación que oscilan entre el 0,10% y el 2,25% dependiendo del monto depositado y el tiempo de permanencia.',
+          'Producto por medio del cual se puede depositar dinero para confiarlo a la entidad bancaria y generar ahorro. Es importante que si el dinero depositado se mantiene en la cuenta, el banco puede entregar utilidades de operación que oscilan entre el 0,10 % y el 2,25 % dependiendo del monto depositado y el tiempo de permanencia.',
         icono: require('@/assets/curso/tema_1/icon_1_6_02.svg'),
       },
       {
         titulo: 'Tarjetas de crédito',
         texto:
-          'Son un medio de pago que permite adquirir productos o servicios y pagarlos posteriormente por mensualidades o cuotas, es uno de los más accequibles en el mercado financiero ya que no requiere que el consumidor cumpla muchos requisitos para tenerlo, al contrario, solo se requiere acreditar un ingreso sin que este sea muy alto y dependiendo del ingreso la entidad financiera adjudica el cupo de dinero que se va a tener disponible. Adicionalmente cada pago que se genere con este producto acarrea un costo adicional sobre el valor de la compra.',
+          'Son un medio de pago que permite adquirir productos o servicios y pagarlos posteriormente por mensualidades o cuotas, es uno de los más asequibles en el mercado financiero ya que no requiere que el consumidor cumpla muchos requisitos para tenerlo, al contrario, solo se requiere acreditar un ingreso sin que este sea muy alto y dependiendo del ingreso la entidad financiera adjudica el cupo de dinero que se va a tener disponible. Adicionalmente cada pago que se genere con este producto acarrea un costo adicional sobre el valor de la compra.',
         icono: require('@/assets/curso/tema_1/icon_1_6_03.svg'),
       },
       {
         titulo: 'Créditos bancarios',
         texto:
-          'Se trata de dineros que una entidad financiera presta a sus cliente o consumidores, con el compromiso de ser pagado de forma periódica asumiendo las condiciones de dicho préstamo.',
+          'Se trata de dineros que una entidad financiera presta a sus clientes o consumidores, con el compromiso de ser pagado de forma periódica asumiendo las condiciones de dicho préstamo.',
         icono: require('@/assets/curso/tema_1/icon_1_6_04.svg'),
       },
     ],

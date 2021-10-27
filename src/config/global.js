@@ -122,7 +122,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Congreso de Colombia. (2008). Ley Estatutaria 1266 del 31 de diciembre de 2008, por la cual se dictan las disposiciones generales del hábeas data y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones. ',
+        'Congreso de Colombia. (2008). Ley Estatutaria 1266 del 31 de diciembre de 2008, por la cual se dictan las disposiciones generales del <i>habeas data</i> y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones. ',
       link:
         'http://wp.presidencia.gov.co/sitios/normativa/leyes/Documents/Juridica/Ley%201266%20de%2031%20de%20diciembre%202008.pdf',
     },
@@ -134,7 +134,7 @@ export default {
     },
     {
       referencia:
-        'Gil, C., J. C. (2017). El debido proceso en la Ley de Habeas Data. Revista CES Derecho 8(1), 191-204. ',
+        'Gil, C., J. C. (2017). El debido proceso en la Ley de <i>Habeas Data</i>. Revista CES Derecho 8(1), 191-204. ',
       link: 'https://revistas.ces.edu.co/index.php/derecho/article/view/4269',
     },
     {
@@ -182,13 +182,13 @@ export default {
   ],
   complementario: [
     {
-      texto: 'López, J. F. (2019).Acuerdo de pago.Economipedia.com ',
+      texto: 'López, J. F. (2019). Acuerdo de pago. Economipedia.com ',
       tipo: 'Artículo ',
       link: 'https://economipedia.com/definiciones/acuerdo-de-pago.html',
     },
     {
       texto:
-        'Ley Estatutaria 1266 del 31 de diciembre de 2008, por la cual se dictan las disposiciones generales del hábeas data y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones.  ',
+        'Ley Estatutaria 1266 del 31 de diciembre de 2008, por la cual se dictan las disposiciones generales del <i>habeas data</i> y se regula el manejo de la información contenida en bases de datos personales, en especial la financiera, crediticia, comercial, de servicios y la proveniente de terceros países y se dictan otras disposiciones.  ',
       tipo: 'PDF',
       descarga: '/downloads/Ley_1266_2008.pdf',
     },

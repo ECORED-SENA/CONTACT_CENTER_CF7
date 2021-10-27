@@ -18,7 +18,7 @@
           .banner_B.mb-5
             .banner_B__img.Img_BG_05A         
             .banner_B__bodyA
-              p.mb-0 Es importante tener en cuenta que los indicadores de gestión en cobranza son muy imporantes, puesto que de su cumplimiento depende la continuidad de la campaña y la permanencia de los gestores de cobro en términos de empleabilidad y estabilidad económica.
+              p.mb-0 Es importante tener en cuenta que los indicadores de gestión en cobranza son muy importantes, puesto que de su cumplimiento depende la continuidad de la campaña y la permanencia de los gestores de cobro en términos de empleabilidad y estabilidad económica.
 
 
         .col-lg-11
@@ -49,7 +49,7 @@
               figure
                 img(src="@/assets/curso/tema_2/img_2_04.png", alt="Productividad", style="width:100%;").m-auto
             .tarjetaTxt
-              p.text-white.mb-0 Corresponde al total de las llamadas realizadas VS el total de gestiones cumplidas, es decir, mide el total de las promesas de pago realizadas (cumplimiento objetivo de llamada).
+              p.text-white.mb-0 Corresponde al total de las llamadas realizadas Vs. el total de gestiones cumplidas, es decir, mide el total de las promesas de pago realizadas (cumplimiento objetivo de llamada).
       .col-auto.mb-4
         .tarjeta.tarjeta-container.tarjeta-purpura
           .tarjetaContent

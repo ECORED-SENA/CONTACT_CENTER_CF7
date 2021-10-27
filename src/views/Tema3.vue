@@ -44,7 +44,7 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--primario_h0")
           .row(titulo="Reporte de operación")
             .col-12
-              p Contempla el resultado obtenido durante la gestión, en indicadores como productividad, efectividad, contactabilidad, adherencia al turno y tiempos efectivos; los intervalos de medición pueden ser por horas, diarios, por semana, por quincena y por mes.  Estos reportes se generan automáticamente los softwares especializados para #[i  Contact Center] y gestiones de cobro y, en la mayoría de los casos, los supervisores de las operaciones los utilizan para entregar retroalimentación inmediata de su desempeño a los gestores de cobro y por ende implementar las respectivas acciones de mejora.  
+              p Contempla el resultado obtenido durante la gestión, en indicadores como productividad, efectividad, contactabilidad, adherencia al turno y tiempos efectivos; los intervalos de medición pueden ser por horas, diarios, por semana, por quincena y por mes.  Estos reportes se generan automáticamente los #[i software] especializados para #[i  Contact Center] y gestiones de cobro y, en la mayoría de los casos, los supervisores de las operaciones los utilizan para entregar retroalimentación inmediata de su desempeño a los gestores de cobro y por ende implementar las respectivas acciones de mejora.  
 
           .row(titulo="Reportes de calidad")
             .col-12
